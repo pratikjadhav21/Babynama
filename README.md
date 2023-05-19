@@ -11,9 +11,9 @@ The Babynama Care App is a mobile application designed to provide information an
 - **Scrollable plan description** boxes with **rounded corners and visible scrollbars**.
 - **Integration** of thank you page and navigation to **"hear from parents" page**.
 
-Animal Cell with "Read More" butto
+App Screen recording
 :-------------------------:
-![](./app/babynama_screen_recording.mp4)
+![](babynama_gif.gif)
 
 
 
@@ -26,21 +26,21 @@ Animal Cell with "Read More" butto
 
 1. Clone the repository:
 
-   **git clone https://github.com/pratikjadhav21/Babynama.git**
+      **git clone https://github.com/pratikjadhav21/Babynama.git**
 
 2. Navigate to the project directory:
 
-**cd baby_care_app**
+      **cd baby_care_app**
 
 3. Install the dependencies:
 
-**flutter pub get**
+      **flutter pub get**
 
 4. Connect a device or start an emulator.
 
 5. Run the application:
 
-**flutter run**
+      **flutter run**
 
 ## Folder Structure
 The project folder structure follows the standard Flutter project structure:
